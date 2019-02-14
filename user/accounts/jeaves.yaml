@@ -1,0 +1,11 @@
+state: enabled
+email: jdeaves@gmail.com
+fullname: 'Jonathan Eaves'
+title: Admin
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$TIDhg9hSTeJ8KrIo0QdY4u80tf5TUvEYak7vl.SJ4z.5ASPLA2rCW
