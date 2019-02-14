@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/catherder/My_WebApps/grav-admin_quark_theme/user/config/system.yaml',
-    'modified' => 1550000254,
+    'modified' => 1550162310,
     'data' => [
         'absolute_urls' => false,
         'param_sep' => ':',
